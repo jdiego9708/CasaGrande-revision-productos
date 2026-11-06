@@ -1,6 +1,6 @@
-﻿# Casa Grande · Revisión de productos
+# Casa Grande · Revisión de productos
 
-Sitio estático para revisar las relaciones de los 419 productos locales activos con los 226 productos activos de Alegra. Corte del catálogo: 2026-11-05.
+Sitio estático para revisar las relaciones de los 368 productos locales activos pendientes con los 226 productos activos de Alegra. Corte del catálogo: 2026-11-05.
 
 Abra `index.html` directamente o sirva esta carpeta con un servidor estático. No requiere instalación ni claves API.
 
